@@ -12,9 +12,9 @@ Description of the module. Should be more in-depth than what's set in `module.pr
 * Version
 * Version
   
-## Changes
-v2 - Fix -specific issue-
-v1 - Initial Release
+## Changes -OLDEST VERSION AT BOTTOM-
+* v2 - Fix -specific issue-
+* v1 - Initial Release
 
 
 #### Thread: LINK TO XDA
